@@ -3,7 +3,7 @@ import type { NextConfig } from "next";
 const nextConfig: NextConfig = {
   /* config options here */
   reactStrictMode: true,
-  serverExternalPackages: ["thread-stream", "pino", "pino-pretty"],
+  serverExternalPackages: ["pino", "pino-pretty", "pino-roll"],
 };
 
 export default nextConfig;
