@@ -1,6 +1,6 @@
 # nextjs-turbopack-pino-reproduction
 
-Reproduction for https://github.com/vercel/next.js/issues/86099
+Reproduction for https://github.com/vercel/next.js/issues/87342
 
 ## Reproduction
 
